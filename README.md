@@ -1,4 +1,4 @@
-<title>MozzaBot</title>
+MozzaBot
 
 Official account of MozzaBot.
 
