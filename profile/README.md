@@ -12,5 +12,11 @@
   - Cambridge IGCSE Biology syllabus.
   - Get it [here](https://labsim.vercel.app)
  
+* Mindspark Academy Website
+  - First client.
+ 
+* AFCS
+  - Islamic Faraid Calculator
+ 
 ## Contact
 Email us here at [this email.](231046@langkawi.mrsm.edu.my)
