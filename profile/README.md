@@ -2,19 +2,18 @@
 
 
 <div align="center">
-  <strong>Still Developing Technology Company</strong>
+  <strong>Developing Technology Brand</strong>
 </div>
 
 
 ## Our Products:
+Here is a list of our projects:
+
 * Labsim Von MozzaBot
   - Our first product. A seamless lab simulator for teachers and students.
   - Cambridge IGCSE Biology syllabus.
-  - Get it [here](https://labsim.vercel.app)
- 
-* Mindspark Academy Website
-  - First client.
- 
+  - Get it [here](https://lvm-psi.vercel.app]
+    
 * AFCS
   - Islamic Faraid Calculator
  
