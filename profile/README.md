@@ -1,21 +1,17 @@
-<h1 align="center">MozzaBot</h1>
+<h1>MozzaBot</h1>
 
+### Useful ideas. Thoughtfully made.
 
-<div align="center">
-  <strong>Developing Technology Brand</strong>
-</div>
+We are **MozzaBot** — an independent team building practical digital experiences for learning, schools, and local communities.
 
+## What we make
 
-## Our Products:
-Here is a list of our projects:
+- **[Labsim](https://lvm-psi.vercel.app)** — interactive virtual science experiments for curious learners.
+- **[Ain Faraid Calculation System](https://afcs-emaz.vercel.app)** — private, precise Islamic inheritance calculations.
+- **[InfoSite MRSM](https://infositemrsm.vercel.app)** — school updates, calendars, prayer times, and useful links.
+- **[Mosque InfoSite](https://mosqueinfosite.vercel.app)** — mosque announcements, prayer times, and community information.
+- **[GAPIM](https://gapim.onrender.com)** — another project from the MozzaBot team.
 
-* Labsim Von MozzaBot
-  - Our first product. A seamless lab simulator for teachers and students.
-  - Cambridge IGCSE Biology syllabus.
-  - Get it [here](https://lvm-psi.vercel.app]
-    
-* AFCS
-  - Islamic Faraid Calculator
- 
-## Contact
-Email us here at [this email.](231046@langkawi.mrsm.edu.my)
+## Get in touch
+
+Have a question, idea, or collaboration in mind? [Contact MozzaBot](https://contact-mozzabot.vercel.app).
